@@ -1,21 +1,3 @@
 .App {
   text-align: center;
 }
-
-body{
-  background-color: darkolivegreen;
-}
-
-.parent{
-  background-color: aqua;
-
-}
-
-
-.child {
-  background-color: blueviolet;
-}
-
-img {
-  width: 300px;
-}
