@@ -9,3 +9,17 @@ button {
   background-color: cadetblue;
   width: 10rem;
 }
+
+.quotes {
+  background-color: cadetblue;
+  padding: 1rem;
+  border-radius: 1rem;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  align-items: center;
+  
+}

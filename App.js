@@ -1,8 +1,9 @@
 import './App.css';
-import Quiz from './Quiz';
+import Quotes from './QuoteGenerator';
+
 
 function App() {
-  return <Quiz />;
+  return <Quotes />;
 }
 
 export default App;
